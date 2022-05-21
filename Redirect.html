@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+
+  <body>
+    <h1> Loading... </h1>
+    <script>
+      google.script.run.withFailureHandler(function(err) {
+        console.error("We had an error:  " + e);
+      }).
+      withSuccessHandler(function(res) {
+        // document.getElementById("id").innerHTML = res;
+        window.location.href = res;
+      }).
+      fetchCompany();
+    </script>
+  </body>
+  
+</html>
