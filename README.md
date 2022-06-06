@@ -3,4 +3,4 @@ A Google Apps Script project to increase company list scrubbing efficiency. Inte
 
 The Google Form interface is optimal for scrubbing, requiring fewer button clicks compared to alternatives like HubSpot.
 
-The project is currently in-progress, and video tutorials and the corresponding google form will be posted a few days after 5/25/2022.
+Video tutorials will be posted in the future.
